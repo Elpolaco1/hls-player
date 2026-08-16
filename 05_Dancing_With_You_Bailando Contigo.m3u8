@@ -1,0 +1,67 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=AES-128,URI="https://mundi.com/hls-proxy.php?file=05_Dancing_With_You_Bailando Contigo.key&type=key",IV=0x00000000000000000000000000000000
+#EXTINF:6.016000,
+05_Dancing_With_You_Bailando Contigo_000.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_001.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_002.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_003.ts
+#EXTINF:6.016000,
+05_Dancing_With_You_Bailando Contigo_004.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_005.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_006.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_007.ts
+#EXTINF:6.016000,
+05_Dancing_With_You_Bailando Contigo_008.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_009.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_010.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_011.ts
+#EXTINF:6.016000,
+05_Dancing_With_You_Bailando Contigo_012.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_013.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_014.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_015.ts
+#EXTINF:6.016000,
+05_Dancing_With_You_Bailando Contigo_016.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_017.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_018.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_019.ts
+#EXTINF:6.016000,
+05_Dancing_With_You_Bailando Contigo_020.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_021.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_022.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_023.ts
+#EXTINF:6.016000,
+05_Dancing_With_You_Bailando Contigo_024.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_025.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_026.ts
+#EXTINF:5.994667,
+05_Dancing_With_You_Bailando Contigo_027.ts
+#EXTINF:6.016000,
+05_Dancing_With_You_Bailando Contigo_028.ts
+#EXTINF:0.965333,
+05_Dancing_With_You_Bailando Contigo_029.ts
+#EXT-X-ENDLIST

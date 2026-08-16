@@ -1,0 +1,127 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=AES-128,URI="https://mundi.com/hls-proxy.php?file=13_The_Elusive_Enigma_Of_You_(cha-cha ).key&type=key",IV=0x00000000000000000000000000000000
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_000.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_001.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_002.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_003.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_004.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_005.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_006.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_007.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_008.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_009.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_010.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_011.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_012.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_013.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_014.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_015.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_016.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_017.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_018.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_019.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_020.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_021.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_022.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_023.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_024.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_025.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_026.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_027.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_028.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_029.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_030.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_031.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_032.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_033.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_034.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_035.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_036.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_037.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_038.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_039.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_040.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_041.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_042.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_043.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_044.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_045.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_046.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_047.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_048.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_049.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_050.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_051.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_052.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_053.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_054.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_055.ts
+#EXTINF:6.016000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_056.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_057.ts
+#EXTINF:5.994667,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_058.ts
+#EXTINF:2.896000,
+13_The_Elusive_Enigma_Of_You_(cha-cha )_059.ts
+#EXT-X-ENDLIST

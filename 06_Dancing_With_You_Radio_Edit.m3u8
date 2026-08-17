@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-KEY:METHOD=AES-128,URI="https://mundi.com/hls-proxy.php?file=06_Dancing_With_You_Radio_Edit.key&type=key",IV=0x00000000000000000000000000000000
+#EXT-X-KEY:METHOD=AES-128,URI="https://mundi.com/hls-proxy.php?file=06_Dancing_With_You_Radio_Edit.key",IV=0x00000000000000000000000000000000
 #EXTINF:6.016000,
 06_Dancing_With_You_Radio_Edit_000.ts
 #EXTINF:5.994667,
